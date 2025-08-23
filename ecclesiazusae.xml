@@ -1906,7 +1906,7 @@ mh\ mhdamw=s.
 <lb />to/ t' e)pi/klintron a)poba/loio
 <lb />boulome/nh spodei=sqai,
 <lb />ka)pi\ th=s kli/nhs o)/fin eu(/rois
-<lb />kai\ proselku/saio  <gap /> 
+<lb />kai\ proselku/saio  <ellipsis><metamark>. . .</metamark></ellipsis>
 <lb rend="displayNum" n="910" />boulome/nh filh=sai.
 <milestone ed="p" n="911" unit="card" /></p></sp></div2>
 <div2 type="strophe" n="2" org="uniform" sample="complete">
@@ -1924,7 +1924,8 @@ mh\ mhdamw=s.
 <sp><speaker>*grau=s *a</speaker><p>
 <lb />h)/dh to\n a)p' *)iwni/as
 <lb />tro/pon ta/laina knhsia=|s:
-<lb /><ellipsis><metamark>* * * * *</metamark></ellipsis>
+<lb /><ellipsis><metamark>. . . . .</metamark></ellipsis>
+<lb /><ellipsis><metamark>. . . . .</metamark></ellipsis>
 <lb rend="displayNum" n="920" />dokei=s de/ moi kai\ la/bda kata\ tou\s *lesbi/ous.
 <lb />a)ll' ou)k a)/n poq' u(farpa/saio
 <lb />ta)ma\ pai/gnia: th\n d' e)mh\n
@@ -2503,8 +2504,8 @@ e)pi\ to\ dei=pnon e)/rxomai.</p></sp>
 tou=to drw=.</p></sp>
 <sp>
 <speaker>*xoro\s</speaker><p>
-kai\ ta/sde nu=n <gap />
-<lb /><ellipsis><metamark>...</metamark></ellipsis>lagara\s toi=n skeli/skoin to\n r(uqmo/n.</p></sp></div2>
+kai\ ta/sde nu=n <ellipsis><metamark>. . . .</metamark></ellipsis>
+<lb /><ellipsis><metamark>. . . . . .</metamark> </ellipsis>lagara\s toi=n skeli/skoin to\n r(uqmo/n.</p></sp></div2>
 <div2 type="lyric" org="uniform" sample="complete">
 <sp><speaker>*xoro\s</speaker><p>
 <lb rend="displayNum" n="1168" />ta/xa ga\r e)/peisi
