@@ -63,8 +63,29 @@ xmlns:xsl="http://www.w3.org/1999/XSL/Transform">
 &#x2039;<span style="color:blue"><xsl:value-of select="node()"/></span>&#x203a;
 </xsl:template>
 
+<xsl:template match="tei:seg">
+<xsl:choose>
+<xsl:when test="@type='doubtful'">
+&#x2020;<span style="color:blue"><xsl:value-of select="node()"/></span>&#x2020;
+</xsl:when>
+<xsl:otherwise>
+<span style="color:magenta"><xsl:value-of select="node()"/></span>
+</xsl:otherwise>
+</xsl:choose>
+</xsl:template>
+
 <xsl:template match="tei:metamark">
-<span style="color:red"><xsl:value-of select="."/></span>
+<xsl:choose>
+<xsl:when test="@function='lacuna'">
+* * * * *
+</xsl:when>
+<xsl:when test="@function='insert'">
++++
+</xsl:when>
+<xsl:otherwise>
+<xsl:value-of select="."/>
+</xsl:otherwise>
+</xsl:choose>
 </xsl:template>
 
 <xsl:template match="tei:milestone">
