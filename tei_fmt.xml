@@ -65,6 +65,15 @@ xmlns:xsl="http://www.w3.org/1999/XSL/Transform">
 </p>
 </xsl:template>
 
+<xsl:template match="tei:l">
+<xsl:choose>
+<xsl:when test="@part='M'">&#xA0;&#xA0;</xsl:when>
+<xsl:when test="@part='F'">&#xA0;&#xA0;&#xA0;&#xA0;</xsl:when>
+<xsl:otherwise> </xsl:otherwise>
+</xsl:choose>
+<xsl:apply-templates select="node()"/><br/>
+</xsl:template>
+
 <xsl:template match="tei:lb">
 <br/>
 </xsl:template>
