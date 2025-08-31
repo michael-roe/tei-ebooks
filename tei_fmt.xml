@@ -89,7 +89,7 @@ xmlns:xsl="http://www.w3.org/1999/XSL/Transform">
 </xsl:template>
 
 <xsl:template match="tei:del">
-&#x2039;<span style="color:blue"><xsl:value-of select="node()"/></span>&#x203a;
+<span style="text-decoration-line: line-through"><xsl:value-of select="node()"/></span>
 </xsl:template>
 
 <xsl:template match="tei:seg">
