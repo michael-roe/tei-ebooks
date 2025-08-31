@@ -90,7 +90,20 @@ xmlns:xsl="http://www.w3.org/1999/XSL/Transform">
 </xsl:template>
 
 <xsl:template match="tei:q">
+<xsl:choose>
+<xsl:when test="@part='I'">
+&#x201c;<xsl:value-of select="node()"/>
+</xsl:when>
+<xsl:when test="@part='M'">
+<xsl:value-of select="node()"/>
+</xsl:when>
+<xsl:when test="@part='F'">
+<xsl:value-of select="node()"/>&#x201d;
+</xsl:when>
+<xsl:otherwise>
 &#x201c;<xsl:value-of select="node()"/>&#x201d;
+</xsl:otherwise>
+</xsl:choose>
 </xsl:template>
 
 <xsl:template match="tei:add">
