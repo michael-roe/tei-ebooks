@@ -161,4 +161,29 @@ xmlns:xsl="http://www.w3.org/1999/XSL/Transform">
 [page]
 </xsl:template>
 
+<xsl:template match="tei:listPlace">
+<ul>
+<xsl:apply-templates select="node()"/>
+</ul>
+</xsl:template>
+
+<xsl:template match="tei:place">
+<li>
+<xsl:value-of select="tei:placeName"/><xsl:if test="tei:location/tei:country">, <xsl:value-of select="tei:location/tei:country"/></xsl:if>:
+<xsl:if test="tei:location/tei:geo"><xsl:value-of select="tei:location/tei:geo"/></xsl:if>
+</li>
+</xsl:template>
+
+<xsl:template match="tei:placeName">
+<xsl:apply-templates select="node()"/>
+</xsl:template>
+
+<xsl:template match="tei:location">
+<xsl:apply-templates select="node()"/>
+</xsl:template>
+
+<xsl:template match="tei:geo">
+(<xsl:apply-templates select="node()"/>)
+</xsl:template>
+
 </xsl:stylesheet>
