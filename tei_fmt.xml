@@ -196,7 +196,7 @@ xmlns:xsl="http://www.w3.org/1999/XSL/Transform">
 <xsl:template match="tei:place">
 <li>
 <xsl:value-of select="tei:placeName"/><xsl:if test="tei:location/tei:country">, <xsl:value-of select="tei:location/tei:country"/></xsl:if>:
-<xsl:if test="tei:location/tei:geo"><xsl:value-of select="tei:location/tei:geo"/></xsl:if>
+<xsl:if test="tei:location/tei:geo"><xsl:apply-templates select="tei:location/tei:geo"/></xsl:if>
 </li>
 </xsl:template>
 
