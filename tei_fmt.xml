@@ -59,6 +59,18 @@ xmlns:xsl="http://www.w3.org/1999/XSL/Transform">
 
 <!-- 3.3 Highlighting and Quotation -->
 
+<xsl:template match="tei:hi">
+<i><xsl:apply-templates select="node()"/></i>
+</xsl:template>
+
+<xsl:template match="tei:foreign">
+<i><xsl:apply-templates select="node()"/></i>
+</xsl:template>
+
+<xsl:template match="tei:distinct">
+<i><xsl:apply-templates select="node()"/></i>
+</xsl:template>
+
 <xsl:template match="tei:q">
 <xsl:choose>
 <xsl:when test="@part='I'">
@@ -96,6 +108,10 @@ xmlns:xsl="http://www.w3.org/1999/XSL/Transform">
 
 <xsl:template match="tei:num">
 <span style="font-weight: bold"><xsl:apply-templates select="node()"/></span>
+</xsl:template>
+
+<xsl:template match="tei:unit">
+<xsl:apply-templates select="node()"/>
 </xsl:template>
 
 <!-- 3.10 Graphics -->
