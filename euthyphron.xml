@@ -1,0 +1,507 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-model href="https://epidoc.stoa.org/schema/latest/tei-epidoc.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+    <teiHeader xml:lang="eng">
+<fileDesc>
+<titleStmt>
+<title>Euthyphron, or On Holiness</title>
+<author>Plato</author>
+<editor>Henry Cary</editor>
+</titleStmt>
+<publicationStmt>
+<p>Unpublished</p>
+</publicationStmt>
+<sourceDesc>
+<biblStruct>
+<analytic>
+<title>Euthyphron, or On Holiness</title>
+</analytic>
+<monogr>
+<author>Plato</author>
+<editor>Henry Carey</editor>
+<title>The Works of Plato</title>
+<imprint>
+<pubPlace>London</pubPlace>
+<publisher>Henry G. Bohn</publisher>
+<date>1854</date>
+</imprint>
+</monogr>
+</biblStruct>
+</sourceDesc>
+</fileDesc>
+</teiHeader>
+    
+<text>
+<body>
+
+<head>EUTHYPHRON, OR ON HOLINESS.</head>
+
+<stage><name>EUTHYPHRON</name>. <name>SOCRATES</name>.</stage>
+
+<sp><speaker>Euth.</speaker><p>What new thing has happened, Socrates, that you have left your haunts in the Lyceum, and are now waiting about the king’s porch! You surely have not a trial before the king as I have.</p></sp>
+
+<sp><speaker>Socr.</speaker><p>The Athenians, Euthyphron, do not call it a trial, but an indictment.</p></sp>
+
+<sp><speaker>Euth.</speaker><p>What say you! Some one, it seems, has preferred an indictment against you, for I cannot believe that you have indicted any one else.</p></sp>
+
+<sp><speaker>Socr.</speaker><p>Surely not.</p></sp>
+
+<sp><speaker>Euth.</speaker><p>Has some one else, then, indicted you?</p></sp>
+
+<sp><speaker>Socr.</speaker><p>Certainly.</p></sp>
+
+<sp><speaker>Euth.</speaker><p>Who is he?</p></sp>
+
+<sp><speaker>Socr.</speaker><p>I do not myself very well know the man, Euthyphron; for he appears to me to be young and unknown; however they call him Melitus, I think; and he is of the borough of Pithos, if you know any Melitus of Pithos, who has lank hair, a thin beard, and a hook nose.</p></sp>
+
+<sp><speaker>Euth.</speaker><p>I don’t know him, Socrates, but what indictment has he preferred against you?</p></sp>
+
+<sp><speaker>Socr.</speaker><p>What? One not unworthy of a high-minded man, as it appears to me; for it is no contemptible matter for one who is so young, to be versed in so weighty a business. For he knows, as he says, how the youth are corrupted, and who they are that corrupt them. And he appears to be a shrewd man, and, observing my ignorance, he comes before the city, as before a mother, to accuse me of corrupting those of the same age with himself. And he appears to me to be the only one of our statesmen who knows how to govern rightly; for it is right first of all to pay attention to the young, that they may become as virtuous as possible, just as it is proper for a good husbandman first of all to pay attention to the young plants, and afterwards the others: so Melitus probably first purges us who corrupt the blossoms of youth, as he says; then after this it is clear that by paying attention to the older men, he will be the cause of very many and great blessings to the city, as may be expected to happen from one who makes such a beginning.</p></sp>
+
+<sp><speaker>Euth.</speaker><p>I wish it were so, Socrates; but I dread lest the contrary should happen. For, in reality, he appears to me, in attempting to injure you, to begin by assailing the city from the hearth. But tell me, by doing what does he say that you corrupt the youth?</p></sp>
+
+<sp><speaker>Socr.</speaker><p>Absurd even to hear mentioned, my admirable friend: for he says that I am a maker of gods, and, as if I made new gods and did not believe in the ancient ones, he has indicted me on their account, as he says.</p></sp>
+
+<sp><speaker>Euth.</speaker><p>I understand, Socrates, it is because you say that a demon constantly attends you. As if, then, you introduced innovations in religion he has preferred this indictment against you, and he comes to accuse you before the court, knowing that such charges are readily entertained by the multitude. And me too, when I say any thing in the public assembly concerning divine things, and predict to them what is going to happen, they ridicule as mad; and although nothing that I have predicted has not turned out to be true, yet they envy all such men as we are. However we ought not to heed them, but pursue our own course.</p></sp>
+
+<sp><speaker>Socr.</speaker><p>But, my dear Euthyphron, to be laughed at is perhaps of no consequence. For the Athenians, as it appears to me, do not care very much whether they think a man is clever, so long as he does not communicate his wisdom; but when they think a man makes others so, they are angry, either through envy, as you say, or from some other cause.</p></sp>
+
+<sp><speaker>Euth.</speaker><p>With respect to that matter, how they are affected towards me I am not very anxious to try.</p></sp>
+
+<sp><speaker>Socr.</speaker><p>For perhaps you seem to shew yourself but rarely, and to be unwilling to impart your wisdom; but I am afraid that, from my love of mankind, I appear to them to tell every man too freely whatever I know, not only without pay, but even gladly offering myself, if any one is willing to listen to me. If then, as I just now said, they were going to laugh at me, as you say they do at you, there would be nothing unpleasant in passing some time in a court of justice, jesting and laughing; but if they are in earnest, how this affair may terminate is unknown, except to you prophets.</p></sp>
+
+<sp><speaker>Euth.</speaker><p>Perhaps, however, it will be of no consequence, Socrates, but you will conduct your cause to your mind, as I think I shall mine.</p></sp>
+
+<sp><speaker>Socr.</speaker><p>Have you too a cause, Euthyphron? Do you defend it, or prosecute?</p></sp>
+
+<sp><speaker>Euth.</speaker><p>I prosecute.</p></sp>
+
+<sp><speaker>Socr.</speaker><p>Whom?</p></sp>
+
+<sp><speaker>Euth.</speaker><p>One, in prosecuting whom, I seem to be mad.</p></sp>
+
+<sp><speaker>Socr.</speaker><p>What then? do you prosecute some one that can fly?</p></sp>
+
+<sp><speaker>Euth.</speaker><p>He is very far from being able to fly, for he happens to be very old.</p></sp>
+
+<sp><speaker>Socr.</speaker><p>Who is he?</p></sp>
+
+<sp><speaker>Euth.</speaker><p>My father.</p></sp>
+
+<sp><speaker>Socr.</speaker><p>Your father, my excellent friend?</p></sp>
+
+<sp><speaker>Euth.</speaker><p>Certainly.</p></sp>
+
+<sp><speaker>Socr.</speaker><p>But what is the charge, and what is the trial about?</p></sp>
+
+<sp><speaker>Euth.</speaker><p>Murder, Socrates.</p></sp>
+
+<sp><speaker>Socr.</speaker><p>By Hercules! Surely, Euthyphron, the generality of men are ignorant how this can ever be right. For I do not think any common person could do this properly, but he must be very far advanced in wisdom.</p></sp>
+
+<sp><speaker>Euth.</speaker><p>Far indeed, by Jupiter, Socrates.</p></sp>
+
+<sp><speaker>Socr.</speaker><p>Is it any one of your relations who has been killed by your father? It must be so; for surely you would not prosecute him for the murder of a stranger.</p></sp>
+
+<sp><speaker>Euth.</speaker><p>Ridiculous, Socrates, to think that it makes any difference whether the person killed is a stranger or a relation, and that we ought not to consider this only, whether he killed him justly or not, and, if justly, let him go, but if not, prosecute him, even though the murderer should live at the same hearth and the same table with you. For the pollution is equal, if you knowingly associate with such a one, and do not purify both yourself and him by bringing him to justice. However, the deceased was a dependant of our’s, and when we were farming at Naxos, he worked there for us, for hire. This man, then, having drunk too much wine and being in a passion with one of our slaves, slew him. My father, therefore, having bound his hands and feet, and thrown him into a pit, sends a man here to enquire of the interpreter of religious matters, what he ought to do with him; and in the mean time he neglected the prisoner, and took no care of him as being a murderer, and as if it was of no consequence if he died; which did happen. For he died from hunger, cold, and the chains, before the messenger returned from the interpreter. For this reason my father and all my relatives are angry with me, because I, for the sake of a murderer, accuse my father of murder, who, as they say, did not kill him, and even if he had killed him, as the deceased was a murderer, they say that I ought not to concern myself about such a man; for that it is impious for a son to prosecute his father for murder; little knowing, Socrates, what the divine rule is with respect to holiness and impiety.</p></sp>
+
+<sp><speaker>Socr.</speaker><p>But, by Jupiter, Euthyphron, do you think you have such an accurate knowledge of divine things, how they are circumstanced, with respect both to things holy and impious, that those things having been done as you say, you are not afraid, in bringing your father to trial, lest you should commit an impious action?</p></sp>
+
+<sp><speaker>Euth.</speaker><p>I should be a sorry person, Socrates, nor would Euthyphron in any respect excel the generality of men, if I did not know all such things accurately.</p></sp>
+
+<sp><speaker>Socr.</speaker><p>Admirable Euthyphron, it will be a most excellent thing for me to become your disciple, and, before Melitus’s indictment comes on for hearing, to object this very thing to him, saying, that I hitherto deemed it of the utmost consequence to be acquainted with divine things, and that now, since he says I am guilty of acting rashly, and introducing innovations with respect to divine things, I have become your disciple. If then, I should say, Melitus, you admit that Euthyphron is wise in such matters and thinks rightly, suppose that I do so too, and do not bring me to trial; but if otherwise, call him, the teacher, to account before you do me, as one who corrupts the elders, both me and his father, me by teaching me, and him by admonishing and punishing him: and if he is not persuaded by me and does not let me off the trial, or indict you instead of me, it will be necessary to say these very things in the court, which I have already objected to him.</p></sp>
+
+<sp><speaker>Euth.</speaker><p>By Jupiter, Socrates, if he should attempt to indict me, I should find, I think, his weak side, and we should much sooner have a discussion in the court about him than about me.</p></sp>
+
+<sp><speaker>Socr.</speaker><p>And I, my dear friend, knowing this, am anxious to become your disciple, being persuaded that some others and this Melitus do not appear even to see you, though he has so very keenly and easily seen through me, as to indict me for impiety. Now therefore, by Jupiter, tell me what you just now asserted you know so well; what do you say is piety and impiety, both with respect to murder and other things? Is not holiness itself the same with itself in every action, and again, is not impiety, which is contrary to all holiness, in every case similar to itself, and has not every thing that is impious some one character with respect to impiety?</p></sp>
+
+<sp><speaker>Euth.</speaker><p>Most assuredly, Socrates.</p></sp>
+
+<sp><speaker>Socr.</speaker><p>Tell me, then, what you say holiness is, and what impiety?</p></sp>
+
+<sp><speaker>Euth.</speaker><p>I say, then, that that is holy which I am now doing, to prosecute any one who acts unjustly either with respect to murder or sacrilege, or who commits any similar offence, whether he be one’s father or mother, or whoever else he may be, but not to prosecute him is impious. For observe, Socrates, what a great proof I will give you that the law is so, as I have also said to others, shewing that it is rightly done, when one does not spare one who acts impiously, whoever he may be. For all men believe that Jupiter is the best and most just of the gods, and yet they admit that he put his own father in chains, because he unjustly swallowed his children, and again, that he mutilated his father for other similar reasons, but they are indignant with me, because I prosecute my father for having acted unjustly, and thus these men contradict themselves with respect to the gods and me.</p></sp>
+
+<sp><speaker>Socr.</speaker><p>Is this the reason then, Euthyphron, for which I am defendant in this indictment, because when any one says things of this kind respecting the gods, I admit them with difficulty? on which account, as it seems, some one will say that I am guilty. Now, therefore, if these things appear so to you likewise, who are well versed in such matters, we must of necessity, as it seems, agree with you. For what else can we say, who acknowledge that we know nothing about these things? But tell me, by Jupiter, who presides over friendship, do you think that these things did really happen so?</p></sp>
+
+<sp><speaker>Euth.</speaker><p>And things still more wonderful than these, Socrates, which the multitude are unacquainted with.</p></sp>
+
+<sp><speaker>Socr.</speaker><p>Do you then think that there is in reality war among the gods one with another, and fierce enmities and battles, and many other things of the kind such as are related by the poets, and with representations of which by good painters both other sacred places have been decorated, and moreover in the great Panathenaic festival a veil full of such representations is carried into the Acropolis. Must we say that these things are true, Euthyphron?</p></sp>
+
+<sp><speaker>Euth.</speaker><p>Not these only, Socrates; but, as I just now said, I can, if you please, relate to you many other things respecting divine affairs, which I am sure you will be astonished to hear.</p></sp>
+
+<sp><speaker>Socr.</speaker><p>I should not wonder; but you shall relate these things to me hereafter, at our leisure. Now, however, endeavour to explain to me more clearly what I just now asked you. For you have not yet, my friend, sufficiently answered my question as to holiness what it is, but you have told me that what you are now doing is holy, prosecuting your father for murder.</p></sp>
+
+<sp><speaker>Euth.</speaker><p>And I said the truth, Socrates.</p></sp>
+
+<sp><speaker>Socr.</speaker><p>Perhaps so. But, Euthyphron, you may also say that many other things are holy.</p></sp>
+
+<sp><speaker>Euth.</speaker><p>For such is the case.</p></sp>
+
+<sp><speaker>Socr.</speaker><p>Do you remember, then, that I did not beg this of you, to teach me some one or two from among many holy things, but the particular character itself by which all holy things are holy? For you surely said that unholy things are unholy, and holy things holy, from one character: do you not remember?</p></sp>
+
+<sp><speaker>Euth.</speaker><p>I do.</p></sp>
+
+<sp><speaker>Socr.</speaker><p>Teach me, then, this very character, what it is, in order that looking to it, and using it as a model, I may say that such a thing of all that you or any one else does is holy, and that what is not such is not holy.</p></sp>
+
+<sp><speaker>Euth.</speaker><p>But if you wish it, Socrates, I will also tell you this.</p></sp>
+
+<sp><speaker>Socr.</speaker><p>I do indeed wish it.</p></sp>
+
+<sp><speaker>Euth.</speaker><p>That, then, which is pleasing to the gods is holy, and that which is not pleasing to them is impious?</p></sp>
+
+<sp><speaker>Socr.</speaker><p>Admirably, Euthyphron, you have answered just as I begged you to answer. Whether truly, however, I do not yet know, but you will doubtless convince me that what you say is true.</p></sp>
+
+<sp><speaker>Euth.</speaker><p>Certainly.</p></sp>
+
+<sp><speaker>Socr.</speaker><p>Come then, let us consider what we say. A thing that is pleasing to the gods, and a man who is pleasing to the gods, are holy; but a thing that is hateful to the gods, and a man that is hateful to the gods, are impious; but the holy is not the same with the unholy, but most contrary to it: is it not so?</p></sp>
+
+<sp><speaker>Euth.</speaker><p>Assuredly.</p></sp>
+
+<sp><speaker>Socr.</speaker><p>And this appears to have been well said.</p></sp>
+
+<sp><speaker>Euth.</speaker><p>I think so, Socrates; for it has been said.</p></sp>
+
+<sp><speaker>Socr.</speaker><p>And that the gods quarrel, Euthyphron, and are at variance with each other, and that there are enmities amongst them one towards another: has not this also been said?</p></sp>
+
+<sp><speaker>Euth.</speaker><p>It has.</p></sp>
+
+<sp><speaker>Socr.</speaker><p>But, my excellent friend, variance about what occasions enmity and anger? Let us consider it thus. If you and I differed about numbers, which of two was the greater, would a difference on this point make us enemies and angry with each other, or having recourse to computation, should we soon be freed from such dissension?</p></sp>
+
+<sp><speaker>Euth.</speaker><p>Certainly.</p></sp>
+
+<sp><speaker>Socr.</speaker><p>And if we differed about the greater and the less, by having recourse to measuring should we not soon put an end to our difference?</p></sp>
+
+<sp><speaker>Euth.</speaker><p>Such is the case.</p></sp>
+
+<sp><speaker>Socr.</speaker><p>And by having recourse to weighing, as I think, we should be able to decide respecting the heavier and the lighter?</p></sp>
+
+<sp><speaker>Euth.</speaker><p>How not?</p></sp>
+
+<sp><speaker>Socr.</speaker><p>About what then disagreeing and in what being unable to come to a decision, do we become enemies to, and angry with, each other? Perhaps you cannot readily answer, but consider when I say whether they are these, the just and the unjust, the beautiful and the base, the good and the evil. Are not these the things about which disagreeing, and not being able to arrive at a satisfactory decision respecting them, we become enemies to each other when we do become so, both you and I, and all other men?</p></sp>
+
+<sp><speaker>Euth.</speaker><p>This, indeed, is difference itself, Socrates, and it is about these things.</p></sp>
+
+<sp><speaker>Socr.</speaker><p>But what? If the gods, Euthyphron, differ at all, must they not differ about these very things?</p></sp>
+
+<sp><speaker>Euth.</speaker><p>Most necessarily.</p></sp>
+
+<sp><speaker>Socr.</speaker><p>According to your account, then, noble Euthyphron, different gods think different things just, and beautiful and base, and good and evil. For surely they could not quarrel with each other if they did not differ about these things; is it not so?</p></sp>
+
+<sp><speaker>Euth.</speaker><p>You say rightly.</p></sp>
+
+<sp><speaker>Socr.</speaker><p>Do they not severally, then, love the things which they consider beautiful and good and just, and hate their contraries?</p></sp>
+
+<sp><speaker>Euth.</speaker><p>Certainly.</p></sp>
+
+<sp><speaker>Socr.</speaker><p>And these same things, as you admit, some consider to be just, and others unjust; disputing about which they quarrel and make war on each other; is it not so?</p></sp>
+
+<sp><speaker>Euth.</speaker><p>Just so.</p></sp>
+
+<sp><speaker>Socr.</speaker><p>The same things, therefore, as it seems, are both hated and loved by the gods, and these are both hateful to the gods and pleasing to the gods.</p></sp>
+
+<sp><speaker>Euth.</speaker><p>It seems so.</p></sp>
+
+<sp><speaker>Socr.</speaker><p>From this reasoning also the same things must be holy and unholy, Euthyphron?</p></sp>
+
+<sp><speaker>Euth.</speaker><p>It appears so.</p></sp>
+
+<sp><speaker>Socr.</speaker><p>You have not, therefore, answered my question, my admirable friend: for I did not ask you this, what is at the same time both holy and impious; but what is pleasing to the gods is also hateful to the gods, as it seems. So that, Euthyphron, in punishing your father, as you are now doing, it is not at all wonderful if in doing this you do what is pleasing to Jupiter, but odious to Saturn and Heaven, and what is pleasing to Vulcan, but odious to Juno; and if any other of the gods differs from another on this point, to them also in like manner.</p></sp>
+
+<sp><speaker>Euth.</speaker><p>But I think, Socrates, that no one of the gods will differ from another about this, and say that he ought not to be punished who has slain any one unjustly.</p></sp>
+
+<sp><speaker>Socr.</speaker><p>But what? Have you ever heard any man doubting, Euthyphron, whether he who has slain another unjustly, or has committed any other injustice, ought to be punished?</p></sp>
+
+<sp><speaker>Euth.</speaker><p>They never cease doubting about these things, both elsewhere and in courts of justice. For they who commit very many acts of injustice say and do every thing in their power to escape punishment.</p></sp>
+
+<sp><speaker>Socr.</speaker><p>Do they also confess, Euthyphron, that they have acted unjustly, and confessing, do they nevertheless say that they ought not to be punished?</p></sp>
+
+<sp><speaker>Euth.</speaker><p>They by no means say this.</p></sp>
+
+<sp><speaker>Socr.</speaker><p>They do not, therefore, do and say every thing in their power. For I think they dare not say nor doubt this, that if they act unjustly they ought to suffer punishment; but, I think, they deny that they have acted unjustly: is it not so?</p></sp>
+
+<sp><speaker>Euth.</speaker><p>You say truly.</p></sp>
+
+<sp><speaker>Socr.</speaker><p>They do not, therefore, doubt this, whether he who acts unjustly ought to be punished; but this, perhaps, they doubt, who has acted unjustly, and by doing what, and when.</p></sp>
+
+<sp><speaker>Euth.</speaker><p>You say truly.</p></sp>
+
+<sp><speaker>Socr.</speaker><p>Do not, then, the very same things happen to the gods if they quarrel about things just and unjust, according to your statement, and do not some say that they act unjustly towards each other, and others again deny it? For surely, my admirable friend, no one, either of gods or men, dare maintain this, that he who acts unjustly ought not to suffer punishment.</p></sp>
+
+<sp><speaker>Euth.</speaker><p>Yes, and what you say is true, Socrates, at least in general.</p></sp>
+
+<sp><speaker>Socr.</speaker><p>But they who doubt, Euthyphron, doubt, I think, about each particular that has been done, both men and gods, if the gods do doubt: and when they differ about any action, some say that it has been done justly, and others unjustly: is it not so?</p></sp>
+
+<sp><speaker>Euth.</speaker><p>Certainly.</p></sp>
+
+<sp><speaker>Socr.</speaker><p>Come then, my dear Euthyphron, teach me too, that I may become wiser, what proof you have that all the gods think he died unjustly, who serving for wages and having committed homicide, and being put in chains by the master of the deceased, died in his fetters before he that put him in chains received an answer respecting him from the interpreters, as to what he ought to do; and that for such a cause it is right for a son to prosecute and demand judgment against his father. Come, endeavour to make it clear to me, with respect to this, that all the gods without exception consider this action to be right. And if you make this sufficiently clear, I will never cease extolling you for your wisdom.</p></sp>
+
+<sp><speaker>Euth.</speaker><p>But perhaps this is no trifling matter, Socrates; though I could prove it to you very plainly.</p></sp>
+
+<sp><speaker>Socr.</speaker><p>I understand you; I appear to you to be more dull of apprehension than the judges; for it is evident that you will prove to them that it was unjust, and that all the gods hate such actions.</p></sp>
+
+<sp><speaker>Euth.</speaker><p>Very plainly, Socrates, if only they will hear what I have to say.</p></sp>
+
+<sp><speaker>Socr.</speaker><p>But they will hear you, if only you shall appear to speak well. However, while you were speaking, I made this reflexion, and considered within myself: if Euthyphron should certainly convince me that all the gods think such a death to be unjust, what more shall I have learnt from Euthyphron as to what is holy, and what impious? For this action, as it seems, would be hateful to the gods. Yet what was lately defined has not appeared from this, namely what is holy, and what not: for that which is hateful to some gods appeared also to be pleasing to others. So that I grant you this, Euthyphron, and if you please let all the gods think it unjust, and let them all hate it. Shall we, then, make this correction in the definition, and say, that what all the gods hate is impious, and what they love is holy; but that what some love, and others hate, is neither, or both? Are you willing that we should give this definition of the holy and the impious?</p></sp>
+
+<sp><speaker>Euth.</speaker><p>What hinders, Socrates?</p></sp>
+
+<sp><speaker>Socr.</speaker><p>Nothing hinders me, Euthyphron; but do you, for your part, consider whether, assuming this, you can thus easily teach me what you promised?</p></sp>
+
+<sp><speaker>Euth.</speaker><p>But I should say that the holy is that which all the gods love, and the contrary, the impious, that which all the gods hate.</p></sp>
+
+<sp><speaker>Socr.</speaker><p>Shall we examine this, then, Euthyphron, whether it is well said? or shall we let it pass, and thus concede both to ourselves and others, that if any one only says that any thing is so, we shall allow that it is? or must we examine what the speaker says?</p></sp>
+
+<sp><speaker>Euth.</speaker><p>We must examine it: for my part, however, I think that this is now well said.</p></sp>
+
+<sp><speaker>Socr.</speaker><p>We shall soon, my good friend, know this more clearly. For consider it in this way: Is the holy loved by the gods because it is holy; or is it holy, because it is loved?</p></sp>
+
+<sp><speaker>Euth.</speaker><p>I don’t understand what you mean, Socrates.</p></sp>
+
+<sp><speaker>Socr.</speaker><p>I will endeavour, then, to express myself more clearly. We say that a thing is carried, and carries; that it is led, and leads; that it is seen, and sees: and you understand that all things of this kind are different from each other, and in what they differ?</p></sp>
+
+<sp><speaker>Euth.</speaker><p>For my part, I seem to understand it.</p></sp>
+
+<sp><speaker>Socr.</speaker><p>Is not, then, that which is beloved one thing, and that which loves different from it?</p></sp>
+
+<sp><speaker>Euth.</speaker><p>How not?</p></sp>
+
+<sp><speaker>Socr.</speaker><p>Tell me, then, is that which is carried, carried because one carries it, or for some other reason?</p></sp>
+
+<sp><speaker>Euth.</speaker><p>No, but for this.</p></sp>
+
+<sp><speaker>Socr.</speaker><p>And that which is led, because one leads it, and that which is seen, because one sees it?</p></sp>
+
+<sp><speaker>Euth.</speaker><p>Certainly.</p></sp>
+
+<sp><speaker>Socr.</speaker><p>One does not therefore see a thing because it is seen, but on the contrary it is seen because one sees it: nor does one lead a thing because it is led, but it is led because one leads it: nor does one carry a thing because it is carried, but it is carried because one carries it. Is my meaning clear, then, Euthyphron? I mean this, that if one does any thing, or suffers any thing, one does it not because it is done; but it is done because one does it; nor does one suffer any thing because it is suffered, but it is suffered because one suffers: do you not admit this to be the case?</p></sp>
+
+<sp><speaker>Euth.</speaker><p>I do.</p></sp>
+
+<sp><speaker>Socr.</speaker><p>Is not, then, the being loved, something either done or suffered by some one?</p></sp>
+
+<sp><speaker>Euth.</speaker><p>Certainly.</p></sp>
+
+<sp><speaker>Socr.</speaker><p>And is not the case the same with this as with all the former instances; those who love it do not love it because it is loved, but it is loved, because they love it?</p></sp>
+
+<sp><speaker>Euth.</speaker><p>Necessarily so.</p></sp>
+
+<sp><speaker>Socr.</speaker><p>What then do we say respecting holiness, Euthyphron? Do not all the gods love it according to your statement?</p></sp>
+
+<sp><speaker>Euth.</speaker><p>Yes.</p></sp>
+
+<sp><speaker>Socr.</speaker><p>Is it for this reason, because it is holy, or for some other reason?</p></sp>
+
+<sp><speaker>Euth.</speaker><p>No, but for this.</p></sp>
+
+<sp><speaker>Socr.</speaker><p>They love it then because it is holy, but it is not holy because they love it.</p></sp>
+
+<sp><speaker>Euth.</speaker><p>It seems so.</p></sp>
+
+<sp><speaker>Socr.</speaker><p>Therefore because the gods love it it is beloved, and that which is pleasing to the gods is pleasing to them.</p></sp>
+
+<sp><speaker>Euth.</speaker><p>How not?</p></sp>
+
+<sp><speaker>Socr.</speaker><p>That which is pleasing to the gods, therefore, is not holy, Euthyphron, nor is that holy which is pleasing to the gods, as you say, but one is different from the other.</p></sp>
+
+<sp><speaker>Euth.</speaker><p>How so, Socrates?</p></sp>
+
+<sp><speaker>Socr.</speaker><p>Because we agree that what is holy is therefore loved because it is holy, and that it is not holy because they love it; is it not so?</p></sp>
+
+<sp><speaker>Euth.</speaker><p>Yes.</p></sp>
+
+<sp><speaker>Socr.</speaker><p>But that which is pleasing to the gods because the gods love it, is from the very circumstance of their loving it pleasing to them; but they do not love it because it is pleasing to them.</p></sp>
+
+<sp><speaker>Euth.</speaker><p>You say truly.</p></sp>
+
+<sp><speaker>Socr.</speaker><p>But, my dear Euthyphron, if the being pleasing to the gods and being holy were the same thing, since that which is holy is loved because it is holy, that which is pleasing to the gods would also be loved because it is pleasing to them; and if that which is pleasing to the gods were pleasing to them because they love it, that which is holy would also be holy because they love it. Now, however, you see that they are contrary, as being altogether different from each other. For the one is such as is loved because they love it, but the other is loved because it is of such a character that it ought to be loved. And you appear, Euthyphron, when asked what holiness is, not to have been willing to make known to me its essence, but to have mentioned an affection to which this same holiness is subject, namely the being loved by all the gods; but what it is, you have not yet told me. If therefore it is agreeable to you, do not conceal it from me, but again say from the beginning what holiness is, whether it is loved by the gods, or is subject to any other affection: for we shall not differ about this. But tell me frankly what the holy is and what the impious.</p></sp>
+
+<sp><speaker>Euth.</speaker><p>But, Socrates, I know not how to tell you what I think. For whatever we put forward some how constantly moves from its position, and will not remain where we have placed it.</p></sp>
+
+<sp><speaker>Socr.</speaker><p>What you have advanced, Euthyphron, appears to resemble the statues of my ancestor Dædalus. And if I had said and laid down these things, you would probably have joked me, for that owing to my relationship to him, my works, by way of discussion, escape, and will not remain where one places them. But now, for the hypotheses are yours, there is need of some other raillery. For they will not remain with you, as you too perceive yourself.</p></sp>
+
+<sp><speaker>Euth.</speaker><p>But it appears to me, Socrates, that what has been said needs pretty much the same raillery. For I am not the person who causes them to shift about in this way and not remain in the same place, but you appear to me to be the Dædalus. For as far as I am concerned, they would have remained as they were.</p></sp>
+
+<sp><speaker>Socr.</speaker><p>I appear, then, my friend, to have become much more skilful than him in my art, in that he only made his own works moveable, but I besides my own, as it seems, make those of others so. And this, moreover, is the most wonderful thing in my art, that I am skilful against any will. For I should wish that my reasonings should remain and be immovably fixed, rather than have the riches of Tantalus, in addition to the skill of Dædalus. But enough of this. Since, however, you appear to be too nice, I will assist you to shew how you may teach me respecting holiness, and not be tired before you have done. For see, whether it does not appear to you to be necessary that every thing that is holy should be just.</p></sp>
+
+<sp><speaker>Euth.</speaker><p>To me it does.</p></sp>
+
+<sp><speaker>Socr.</speaker><p>Is, then, every thing that is just also holy, or is every thing that is holy just, but not every thing that is just holy, but partly holy, and partly something else?</p></sp>
+
+<sp><speaker>Euth.</speaker><p>I do not follow your questions, Socrates.</p></sp>
+
+<sp><speaker>Socr.</speaker><p>And yet you are younger no less than wiser than I am; but, as I said, you are too delicate through abundance of wisdom. However, my blessed friend, exert yourself; for it is not difficult to understand what I mean. For I mean the contrary to what the poet said, who wrote, “You are unwilling to mention Jove the creator who made this universe: for where fear is there is also shame.” I, however, differ from this poet. Shall I tell you in what respect?</p></sp>
+
+<sp><speaker>Euth.</speaker><p>By all means.</p></sp>
+
+<sp><speaker>Socr.</speaker><p>It does not appear to me, that where fear is there is also shame. For there appear to me to be many who fearing diseases, poverty, and many other things of the kind, fear indeed but are by no means ashamed of what they fear. Does it not appear so to you?</p></sp>
+
+<sp><speaker>Euth.</speaker><p>Certainly.</p></sp>
+
+<sp><speaker>Socr.</speaker><p>But wherever shame is, there is also fear: for is there any one who is ashamed of and blushes at any thing, that is not afraid of and does not fear the reputation of baseness?</p></sp>
+
+<sp><speaker>Euth.</speaker><p>Assuredly he does fear it.</p></sp>
+
+<sp><speaker>Socr.</speaker><p>It is not right, therefore, to say, that where fear is, there also is shame, but where shame is, there also is fear; not however, wherever there is fear, there is also shame. For I think that fear is more extensive than shame; for shame is a part of fear, as the odd is a part of number, so that it does not follow that wherever number is, there also is the odd, but wherever the odd is, there also is number. Do you follow me now?</p></sp>
+
+<sp><speaker>Euth.</speaker><p>Perfectly.</p></sp>
+
+<sp><speaker>Socr.</speaker><p>I asked you, then, about a thing of this kind above, whether where the just is, there also is the holy, or where the holy is, there also is the just, but wherever the just is, here is not always the holy: for the holy is a part of the just. Shall we say thus, or does it seem to you otherwise?</p></sp>
+
+<sp><speaker>Euth.</speaker><p>No, but thus. For you appear to me to speak correctly.</p></sp>
+
+<sp><speaker>Socr.</speaker><p>Observe then what follows. If the holy is a part of the just, it is necessary, as it seems, that we should find out what part of the just the holy is. If then you were to ask me about some of the things before mentioned, for instance, what part of number the even is, and what number it is, I should say that it is not scalene, but isosceles. Does it not appear so to you?</p></sp>
+
+<sp><speaker>Euth.</speaker><p>It does.</p></sp>
+
+<sp><speaker>Socr.</speaker><p>Do you, then, also endeavour in like manner to teach me what part of the just the holy is, that I may tell Melitus no longer to treat me unjustly nor indict me for impiety, since I have now sufficiently learnt from you what things are pious and holy, and what not.</p></sp>
+
+<sp><speaker>Euth.</speaker><p>That part of justice then, Socrates, appears to me to be pious and holy, which is concerned about our care for the gods; but that which is concerned about our care for mankind is the remaining part of justice.</p></sp>
+
+<sp><speaker>Socr.</speaker><p>You appear to me, Euthyphron, to speak well; but I still require a trifle further. For I do not yet understand what care you mean. For you surely do not mean such care is to be had for the gods as is employed about other things. For we say, for instance, not every one knows how to take care of horses, but a groom; do we not?</p></sp>
+
+<sp><speaker>Euth.</speaker><p>Certainly.</p></sp>
+
+<sp><speaker>Socr.</speaker><p>For surely the groom’s business is the taking care of horses.</p></sp>
+
+<sp><speaker>Euth.</speaker><p>Yes.</p></sp>
+
+<sp><speaker>Socr.</speaker><p>Nor does every one know how to take care of dogs, but a huntsman.</p></sp>
+
+<sp><speaker>Euth.</speaker><p>Just so.</p></sp>
+
+<sp><speaker>Socr.</speaker><p>For the huntsman’s business is the taking care of dogs.</p></sp>
+
+<sp><speaker>Euth.</speaker><p>Yes.</p></sp>
+
+<sp><speaker>Socr.</speaker><p>And the herdsman’s of cattle.</p></sp>
+
+<sp><speaker>Euth.</speaker><p>Certainly.</p></sp>
+
+<sp><speaker>Socr.</speaker><p>But holiness and piety of the gods, Euthyphron; do you say so?</p></sp>
+
+<sp><speaker>Euth.</speaker><p>I do.</p></sp>
+
+<sp><speaker>Socr.</speaker><p>All care, therefore, aims at the same thing, that is to say, it is for some good and advantage of that which is taken care of, as you see that horses, taken care of by one skilled in the groom’s business, are benefited and become better: do they not seem so to you?</p></sp>
+
+<sp><speaker>Euth.</speaker><p>They do.</p></sp>
+
+<sp><speaker>Socr.</speaker><p>Dogs also are benefited by one skilled in the huntsman’s business, and oxen by that of the herdsman, and all other things in like manner: do you think that the care is employed for the injury of that which is taken care of?</p></sp>
+
+<sp><speaker>Euth.</speaker><p>Not I, by Jupiter.</p></sp>
+
+<sp><speaker>Socr.</speaker><p>But for its advantage?</p></sp>
+
+<sp><speaker>Euth.</speaker><p>How should it not?</p></sp>
+
+<sp><speaker>Socr.</speaker><p>Is holiness, therefore, since it is a care for the gods, an advantage to the gods, and does it make the gods better? And would you admit this, that when you do any thing holy, you make some one of the gods better?</p></sp>
+
+<sp><speaker>Euth.</speaker><p>Not I, by Jupiter.</p></sp>
+
+<sp><speaker>Socr.</speaker><p>Nor do I think, Euthyphron, that you mean this; I am far from doing so: but for this reason I asked you what care for the gods you mean, not thinking that you mean such as this.</p></sp>
+
+<sp><speaker>Euth.</speaker><p>And rightly, Socrates; for I do not mean such as this.</p></sp>
+
+<sp><speaker>Socr.</speaker><p>Be it so: but what care for the gods will holiness be?</p></sp>
+
+<sp><speaker>Euth.</speaker><p>That, Socrates, which slaves take of their masters.</p></sp>
+
+<sp><speaker>Socr.</speaker><p>I understand: it will be a kind of service, as it seems, paid to the gods.</p></sp>
+
+<sp><speaker>Euth.</speaker><p>Certainly.</p></sp>
+
+<sp><speaker>Socr.</speaker><p>Can you then tell me, to the performance of what the service of physicians is subservient? Do you not think it is to health?</p></sp>
+
+<sp><speaker>Euth.</speaker><p>I do.</p></sp>
+
+<sp><speaker>Socr.</speaker><p>But what? to the performance of what work is the service of shipwrights subservient?</p></sp>
+
+<sp><speaker>Euth.</speaker><p>Clearly, Socrates, to that of a ship.</p></sp>
+
+<sp><speaker>Socr.</speaker><p>And that of architects, to houses?</p></sp>
+
+<sp><speaker>Euth.</speaker><p>Yes.</p></sp>
+
+<sp><speaker>Socr.</speaker><p>Tell me, then, my excellent friend; to the performance of what work will the service of the gods be subservient? For it is clear that you know, since you say that you have a knowledge of divine things beyond that of other men.</p></sp>
+
+<sp><speaker>Euth.</speaker><p>And I say truly, Socrates.</p></sp>
+
+<sp><speaker>Socr.</speaker><p>Tell me then, by Jupiter, what is that very beautiful work which the gods effect, by employing us as servants.</p></sp>
+
+<sp><speaker>Euth.</speaker><p>They are many and beautiful, Socrates.</p></sp>
+
+<sp><speaker>Socr.</speaker><p>So do generals, my friend; though you could easily tell the principal of them, that they effect victory in war; is it not so?</p></sp>
+
+<sp><speaker>Euth.</speaker><p>How should I not?</p></sp>
+
+<sp><speaker>Socr.</speaker><p>Husbandmen too, I think, effect many and beautiful things; but the principal thing they effect is the production of food from the earth.</p></sp>
+
+<sp><speaker>Euth.</speaker><p>Certainly.</p></sp>
+
+<sp><speaker>Socr.</speaker><p>What then? of the many and beautiful things which the gods effect, what is the principal?</p></sp>
+
+<sp><speaker>Euth.</speaker><p>I told you just now, Socrates, that it is a difficult matter to learn all these things accurately; this however I tell you simply, that if any one knows how to speak and do things grateful to the gods, by praying and sacrificing, these things are holy, and such things preserve both private houses and the general weal of cities; but the contraries to things acceptable to them are impious, which also subvert and ruin all things.</p></sp>
+
+<sp><speaker>Socr.</speaker><p>You might, if you had pleased, Euthyphron, have told me the principal of what I asked in fewer words. But it is clear that you are not willing to teach me. For now when you were just upon the point of doing so, you turned aside; whereas if you had answered, I should by this time have sufficiently learnt from you what holiness is. But now (for it is necessary that he who asks questions should follow the person questioned wherever he may lead) what again do you say is the holy, and holiness? Do you not say it is a knowledge of sacrificing and praying?</p></sp>
+
+<sp><speaker>Euth.</speaker><p>I do.</p></sp>
+
+<sp><speaker>Socr.</speaker><p>Is not to sacrifice to offer gifts to the gods, and to pray to beg something of the gods?</p></sp>
+
+<sp><speaker>Euth.</speaker><p>Assuredly, Socrates.</p></sp>
+
+<sp><speaker>Socr.</speaker><p>From this statement it follows that holiness must be a knowledge of begging from and giving to the gods.</p></sp>
+
+<sp><speaker>Euth.</speaker><p>You quite understand what I mean, Socrates.</p></sp>
+
+<sp><speaker>Socr.</speaker><p>For I am very anxious, my friend, to obtain your wisdom, and I apply my mind to it: so that what you say will not fall to the ground. But tell me what this service of the gods is? Do you say it is to beg of them and to give to them?</p></sp>
+
+<sp><speaker>Euth.</speaker><p>I do.</p></sp>
+
+<sp><speaker>Socr.</speaker><p>Must we not then, therefore, to beg rightly, beg those things of them which we need from them?</p></sp>
+
+<sp><speaker>Euth.</speaker><p>What else?</p></sp>
+
+<sp><speaker>Socr.</speaker><p>And again to give rightly must we give them in return such things as they stand in need of from us? For surely it would not be suitable to offer those gifts to any one which he does not need.</p></sp>
+
+<sp><speaker>Euth.</speaker><p>You say truly, Socrates.</p></sp>
+
+<sp><speaker>Socr.</speaker><p>Holiness, therefore, Euthyphron, will be a kind of traffic between gods and men.</p></sp>
+
+<sp><speaker>Euth.</speaker><p>A kind of traffic, if it pleases you to call it so.</p></sp>
+
+<sp><speaker>Socr.</speaker><p>But it is not at all pleasing to me, unless it happens to be true. Tell me therefore, what advantage the gods derive from the gifts which they receive from us? For the advantage arising from what they give is clear to every one; for we have no good at all which they do not impart? but how are they benefited by what they receive from us? Do we get so much the advantage over them in this traffic, that we receive all good things from them, but they nothing from us?</p></sp>
+
+<sp><speaker>Euth.</speaker><p>But do you think, Socrates, that the gods are benefited by what they receive from us?</p></sp>
+
+<sp><speaker>Socr.</speaker><p>What is the use then, Euthyphron, of all our gifts to the gods?</p></sp>
+
+<sp><speaker>Euth.</speaker><p>What else do you think except honour and reverence, and, as I just now mentioned, gratitude?</p></sp>
+
+<sp><speaker>Socr.</speaker><p>Holiness then, Euthyphron, is that which is grateful, but not profitable or dear to the gods.</p></sp>
+
+<sp><speaker>Euth.</speaker><p>I for my part think it is of all things most dear to them.</p></sp>
+
+<sp><speaker>Socr.</speaker><p>This then again is, as it seems, holiness, that which is dear to the gods.</p></sp>
+
+<sp><speaker>Euth.</speaker><p>Most certainly.</p></sp>
+
+<sp><speaker>Socr.</speaker><p>Can you wonder then, when you say this, that your statements do not remain fixed, but move about, and can you accuse me as being the Dædalus that makes them move about, when you yourself are far more skilful than Dædalus, and make them go round in a circle? Do you not perceive that our discussion, turning round, comes to the same point? For you surely remember that in a former part of our discussion that which is holy and that which is acceptable to the gods appeared to us not to be the same, but different from each other: do you not remember?</p></sp>
+
+<sp><speaker>Euth.</speaker><p>I do.</p></sp>
+
+<sp><speaker>Socr.</speaker><p>Now, then, do you not perceive that you say that holiness is that which is dear to the gods? But is this any thing else than that which is acceptable to the gods? is it not so?</p></sp>
+
+<sp><speaker>Euth.</speaker><p>Certainly.</p></sp>
+
+<sp><speaker>Socr.</speaker><p>Either, therefore, we did not then admit that properly, or, if we did, our present statement is not correct?</p></sp>
+
+<sp><speaker>Euth.</speaker><p>It seems so.</p></sp>
+
+<sp><speaker>Socr.</speaker><p>From the beginning, therefore, we must consider again what holiness is; for I shall not willingly run away like a coward, until I have learnt it. Do not then despise me, but by all means apply your mind earnestly to it and tell me the truth. For you know it, if any man does; and I cannot let you go like Proteus, until you have told me. For if you had not known clearly both what is holy and what is impious, it is not possible that you could ever have attempted, for the sake of a hireling, to prosecute your aged father for murder; but you would have feared both to incur the anger of the gods, in case you should not act rightly in this matter, and would have been ashamed in the sight of men. But now I am sure that you think you clearly know both what is holy and what is not. Tell me, therefore, most excellent Euthyphron, and do not conceal from me what you believe it to be?</p></sp>
+
+<sp><speaker>Euth.</speaker><p>At some other opportunity then, Socrates: for now I am in haste to go somewhere, and it is time for me to depart.</p></sp>
+
+<sp><speaker>Socr.</speaker><p>What are you about, my friend? By going away you deprive me of the great hope I entertained that by learning from you what things are holy and what not, I might get rid of Melitus’s indictment, by shewing him that I had now become skilled in divine things by the aid of Euthyphron, and that I no longer through ignorance speak rashly, or introduce innovations respecting them, and that therefore I should lead a better life for the future.</p></sp>
+
+</body>
+</text>
+</TEI>
